@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/5lAtcHWPAYFdS/giphy.gif">
 
 # 💫 About Me:
-🔭  I'm a computer science graduate with the experience in <strong>excellent troubleshooting skills </strong> and helped more than <b><strong>1000+ students</strong></b> in lots of different technological Domains .<br><br>🤝  I have provided my assistance to more than <strong><b>33+ startups</b></strong> 🔥 by povinding both technical and non-technical help like to help them in their strategies and business models for their startups📈.<br><br>🎯 I have good <strong>Management Skills</strong>🤵‍♂️ and has good <strong>Leadership Qualities.</strong>💪<br><br>👀  looking to collaborate on opensource projects and to work with companies. <strong>Do reach out to me on my LinkedIn and other Social media.</strong>
+🔭  I'm a 3rd yeard computer science student with the experience in <strong> cloud Technologies, DevOps and have excellent troubleshooting skills </strong> </b><br><br>🤝 have a experience of building a startup and showcasing at the startup event JAZBAA 2.0</strong> 🔥.<br><br>🎯 I have good <strong>Management Skills</strong>🤵‍♂️ and has good <strong>Leadership Qualities.</strong>💪<br><br>👀  looking to collaborate on opensource projects and to work with companies. <strong>Do reach out to me on my LinkedIn and other Social media.</strong>
 
 
 ## 🖥️Technologies I Can Help You With
